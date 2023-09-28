@@ -1,0 +1,48 @@
+{
+  "name": "academy_gql",
+  "version": "1.0.0",
+  "description": "Online Academy with GraphQL",
+  "main": "build/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ju4nMa24/academy_graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "ecmascript",
+    "last",
+    "version",
+    "online"
+  ],
+  "author": "Juan Manuel Celis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ju4nMa24/academy_graphql/issues"
+  },
+  "homepage": "https://github.com/Ju4nMa24/academy_graphql#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.12.1",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "graphql": "^16.8.1",
+    "graphql-import-node": "^0.0.5",
+    "graphql-playground-middleware-express": "^1.7.23",
+    "graphql-tools": "^9.0.0",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "ncp": "^2.0.0",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.7.3",
+    "@types/cors": "^2.8.14",
+    "@types/express": "^4.17.18",
+    "@types/graphql": "^14.5.0",
+    "@types/lodash": "^4.14.199",
+    "@types/node": "^20.7.1"
+  }
+}
