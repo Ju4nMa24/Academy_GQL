@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ju4nMa24/academy_graphql.git"
+    "url": "git+https://github.com/Ju4nMa24/Academy_GQL.git"
   },
   "keywords": [
     "graphql",
@@ -20,9 +20,9 @@
   "author": "Juan Manuel Celis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ju4nMa24/academy_graphql/issues"
+    "url": "https://github.com/Ju4nMa24/Academy_GQL/issues"
   },
-  "homepage": "https://github.com/Ju4nMa24/academy_graphql#readme",
+  "homepage": "https://github.com/Ju4nMa24/Academy_GQL#readme",
   "dependencies": {
     "apollo-server-express": "^3.12.1",
     "compression": "^1.7.4",
